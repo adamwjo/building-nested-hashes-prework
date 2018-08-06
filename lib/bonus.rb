@@ -20,7 +20,6 @@ def bonus
    }
   }
   hash = epic_tragedy[:montague]
-  hash[:hero[:status]] = "dead"
 
 
 
