@@ -19,8 +19,7 @@ def bonus
       ]
    }
   }
-  hash = epic_tragedy[:montague]
-
+  epic_tragedy[:montague][:hero][:status] = dead
 
 
 
