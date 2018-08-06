@@ -20,6 +20,7 @@ def bonus
    }
   }
   epic_tragedy[:montague[:hero[2]]] = "dead"
+  epic_tragedy[:capulet[:heroine[2]] = "dead"
 
 
 
